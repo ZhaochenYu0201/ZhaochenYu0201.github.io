@@ -4,23 +4,22 @@ main:
     authors: Ling Yang*, <strong>Zhaochen Yu*</strong>, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E Gonzalez, Bin Cui
     conference_short: NeurIPS
     conference: Conference and Workshop on Neural Information Processing Systems, 2024, <strong>Spotlight</strong>.
-    arxiv: https://arxiv.org/abs/2312.02087
-    code: https://github.com/showlab/VideoSwap
-    github_stars: showlab/VideoSwap
-    image: ./assets/teaser/videoswap.gif
+    arxiv: https://arxiv.org/abs/2406.04271
+    code: https://github.com/YangLing0818/buffer-of-thought-llm
+    github_stars: YangLing0818/buffer-of-thought-llm
+    image: ./assets/teaser/bot.png
 
 
 
 
-  - title: "Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation"
-    authors: <strong>David Junhao Zhang</strong>, Jay Zhangjie Wu, Jia-Wei Liu, Rui Zhao, Lingmin Ran, Yuchao Gu, Difei Gao, Mike Zheng Shou
-    conference_short: arXiv
-    conference: arXiv, 2023.
-    page: https://showlab.github.io/Show-1/
-    arxiv: https://arxiv.org/abs/2309.15818
-    code: https://github.com/showlab/Show-1
-    github_stars: showlab/Show-1
-    image: ./assets/teaser/show1.gif
+  - title: "Mastering text-to-image diffusion: Recaptioning, planning, and generating with multimodal llms"
+    authors: Ling Yang*, <strong>Zhaochen Yu*</strong>, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui
+    conference_short: ICML
+    conference:  International Conference on Machine Learning, 2024.
+    arxiv: https://arxiv.org/abs/2401.11708
+    code: https://github.com/YangLing0818/RPG-DiffusionMaster
+    github_stars: YangLing0818/RPG-DiffusionMaster
+    image: ./assets/teaser/rpg.png
 
   - title: "MotionDirector: Motion Customization of Text-to-Video Diffusion Models"
     authors: Rui Zhao, Yuchao Gu, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Jiawei Liu, Weijia Wu, Jussi Keppo, Mike Zheng Shou
