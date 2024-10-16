@@ -3,7 +3,7 @@ title: Zhaochen Yu
 position: MSE. Student
 affiliation: Nanyang Technological University
 affiliation_link: https://ntu.edu.sg/
-affiliation_logo: ./assets/img/NTU_coat_of_arms.svg
+affiliation_logo: ./assets/img/NTU_coat_of_arms.png
 email: bityzcedu (at) 163.com
 
 # Search Engine Optimization (SEO)
@@ -23,8 +23,8 @@ twitter: https://twitter.com/JunhaoZHANG19
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/yzc.jpg
-favicon: ./assets/img/NTU_coat_of_arms.svg
-favicon_dark: ./assets/img/NTU_coat_of_arms.svg
+favicon: ./assets/img/NTU_coat_of_arms.png
+favicon_dark: ./assets/img/NTU_coat_of_arms.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
