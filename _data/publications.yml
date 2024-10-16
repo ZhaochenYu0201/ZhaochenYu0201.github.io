@@ -16,7 +16,7 @@ main:
     code: https://github.com/YangLing0818/buffer-of-thought-llm
     github_stars: YangLing0818/buffer-of-thought-llm
     image: ./assets/teaser/bot.png
-    
+
   - title: "RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models"
     authors: Xinchen Zhang, Ling Yang, Yaqi Cai,<strong> Zhaochen Yu</strong>, Kai-Ni Wang, Jiake Xie, Ye Tian, Minkai Xu, Yong Tang, Yujiu Yang, Bin Cui
     conference_short: NeurIPS
@@ -53,45 +53,4 @@ main:
     github_stars: YangLing0818/ContextDiff
     image: ./assets/teaser/contextdiff.png
 
-    
-  - title: "MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning"
-    authors: <strong>David Junhao Zhang </strong>, Kunchang Li, Yali Wang, Yunpeng Chen, Shashwat Chandra, Yu Qiao, Luoqi Liu, Mike Zheng Shou
-    conference_short: ECCV
-    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2022.
-    arxiv: https://arxiv.org/abs/2111.12527
-    code: https://github.com/MTLab/MorphMLP
-    image: ./assets/teaser/morphmlp.jpg
-
-
-  - title: "Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition"
-    authors: Mingfei Han*, <strong>David Junhao Zhang* </strong>, Yali Wang, Ruiyan, Lina Yao, Xiaojun Chang and Yu Qiao (* equal contribution)
-    conference_short: CVPR
-    conference: Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
-    arxiv: https://arxiv.org/abs/2204.02148
-    note: Oral Presentation
-    image: ./assets/teaser/dual.jpg
-  
-  - title: "Learning Dynamical Human-Joint Affinity for 3D Pose Estimation in Videos"
-    authors: <strong>Junhao Zhang* </strong>, Yali Wang, Zhipeng Zhou, Tianyu Luan, Zhe Wang, Yu Qiao
-    conference_short: TIP
-    conference: IEEE Transactions on Image Processing<strong>(TIP)</strong>, 20231
-    arxiv: https://arxiv.org/abs/2109.07353
-    image: ./assets/teaser/3dpose.png
-
-
-  - title: "Learning Geometric Disentangled Representation for Complementary Understanding of 3D Object Pointcloud"
-    authors: Mutian Xu*, <strong>Junhao Zhang* </strong>, Zhipeng Zhou, Mingye Xu, Xiaojuan Qi and Yu Qiao (* equal contribution)
-    conference_short: AAAI
-    conference: The AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021.
-    arxiv: https://arxiv.org/abs/2012.10921
-    code: https://github.com/mutianxu/GDANet
-    image: ./assets/teaser/obpoint.png
-  
-  - title: "PC-HMR: Pose Calibration for Human Mesh Recovery"
-    authors: Tianyu Luan*, Yali Wang*, <strong>Junhao Zhang* </strong>, Zhe Wang, Zhipeng Zhou and Yu Qiao (* equal contribution)
-    conference_short: AAAI
-    conference: The AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2021.
-    arxiv: https://arxiv.org/abs/2103.09009
-    image: ./assets/teaser/mesh.png
-   
 
