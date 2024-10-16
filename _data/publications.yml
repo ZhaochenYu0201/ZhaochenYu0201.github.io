@@ -1,10 +1,9 @@
 main:
 
-  - title: "VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence"
-    authors: Yuchao Gu, Yipin Zhou, Bichen Wu, Licheng Yu, Jia-Wei Liu, Rui Zhao, Jay Zhangjie Wu,  <strong>David Junhao Zhang</strong>, Mike Zheng Shou, Kevin Tang
-    conference_short: arXiv
-    conference: arXiv, 2023.
-    page: https://videoswap.github.io/
+  - title: "Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models"
+    authors: Ling Yang*, <strong>Zhaochen Yu*</strong>, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E Gonzalez, Bin Cui
+    conference_short: NeurIPS
+    conference: Conference and Workshop on Neural Information Processing Systems, 2024, <strong>Spotlight</strong>.
     arxiv: https://arxiv.org/abs/2312.02087
     code: https://github.com/showlab/VideoSwap
     github_stars: showlab/VideoSwap
