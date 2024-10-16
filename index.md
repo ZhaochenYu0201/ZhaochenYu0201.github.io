@@ -8,7 +8,7 @@ I am Zhaochen Yu, a first year MSE. student at  [Nanyang Technological Universit
 
 
 
-My research interests now are AIGC，including diffusion model and multi-modal LLMs.
+My research interests are Generative Modeling (Diffusion Models, LLMs) and AI for Science.
 
 {% include_relative _includes/news.md %}
 
