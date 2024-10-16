@@ -1,6 +1,7 @@
 ## News
 
-- **[June. 2024]** Code and evaluation of [**BoT**](https://github.com/YangLing0818/buffer-of-thought-llm/) [![](https://img.shields.io/github/stars/YangLing0818/buffer-of-thought-llm?style=social)](https://github.com/YangLing0818/buffer-of-thought-llm) are released!
+- **[June. 2024]** Code and evaluation scripts of [**BoT**](https://github.com/YangLing0818/buffer-of-thought-llm/) [![](https://img.shields.io/github/stars/YangLing0818/buffer-of-thought-llm?style=social)](https://github.com/YangLing0818/buffer-of-thought-llm) are released!
 - **[June. 2024]** Training scripts and inference code of [**VideoTetris**](https://github.com/YangLing0818/VideoTetris/) [![](https://img.shields.io/github/stars/YangLing0818/VideoTetris?style=social)](https://github.com/YangLing0818/VideoTetris) are released!
-- **[March. 2024]** Code and inference code of  [**RPG**](https://github.com/YangLing0818/RPG-DiffusionMaster) [![](https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster?style=social)](https://github.com/YangLing0818/RPG-DiffusionMaster) are released!.
-- **[March. 2024]** Code and inference code of  [**RealCompo**](https://github.com/YangLing0818/RealCompo) [![](https://img.shields.io/github/stars/YangLing0818/RealCompo?style=social)](https://github.com/YangLing0818/RealCompo) are released!.
+- **[March. 2024]** Inference code of  [**RPG**](https://github.com/YangLing0818/RPG-DiffusionMaster) [![](https://img.shields.io/github/stars/YangLing0818/RPG-DiffusionMaster?style=social)](https://github.com/YangLing0818/RPG-DiffusionMaster) are released!.
+- **[March. 2024]** Inference code of  [**RealCompo**](https://github.com/YangLing0818/RealCompo) [![](https://img.shields.io/github/stars/YangLing0818/RealCompo?style=social)](https://github.com/YangLing0818/RealCompo) are released!.
+
