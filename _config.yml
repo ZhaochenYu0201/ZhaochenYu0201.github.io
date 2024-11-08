@@ -1,15 +1,15 @@
 # Basic Information 
 title: Zhaochen Yu
 position: M.SC. Student
-affiliation: Nanyang Technological University
-affiliation_link: https://ntu.edu.sg/
-affiliation_logo: ./assets/img/NTU_coat_of_arms.png
+affiliation: National University of Singapore
+affiliation_link: https://www.nus.edu.sg/
+affiliation_logo: ./assets/img/NUS_coat_of_arms.svg
 email: bityzcedu (at) 163.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: trafalgar zhaochen yu, zhaochen yu, yu zhaochen 
-description: Zhaochen Yu is a M.SC student, Nanyang Technological University.
+description: Zhaochen Yu is a M.SC student, National University of Singapore.
 canonical: https://zhaochenyu0201.github.io/
 
 # Links 
@@ -23,8 +23,8 @@ twitter: https://x.com/yu_trafalgar
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/yzc.jpg
-favicon: ./assets/img/NTU_coat_of_arms.png
-favicon_dark: ./assets/img/NTU_coat_of_arms.png
+favicon: ./assets/img/NUS_coat_of_arms.svg
+favicon_dark: ./assets/img/NUS_coat_of_arms.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
