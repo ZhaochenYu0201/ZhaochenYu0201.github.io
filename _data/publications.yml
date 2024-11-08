@@ -1,6 +1,6 @@
 main:
   - title: "SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights"
-    authors: Ling Yang*, <strong> Zhaochen Yu*</strong>, Tianjun Zhang, Minkai Xu, Joseph E. Gonzalez,Bin Cui, Shuicheng Yan
+    authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Tianjun Zhang, Minkai Xu, Joseph E. Gonzalez,Bin Cui, Shuicheng Yan
     conference_short: arxiv
     conference: arxiv 2024.
     arxiv: https://arxiv.org/abs/2410.09008
@@ -9,7 +9,7 @@ main:
     image: ./assets/teaser/supercorrect.png
 
   - title: "Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models"
-    authors: Ling Yang*, <strong>Zhaochen Yu*</strong>, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E Gonzalez, Bin Cui
+    authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Tianjun Zhang, Shiyi Cao, Minkai Xu, Wentao Zhang, Joseph E Gonzalez, Bin Cui
     conference_short: NeurIPS
     conference: Conference and Workshop on Neural Information Processing Systems, 2024, <strong>Spotlight</strong>.
     arxiv: https://arxiv.org/abs/2406.04271
@@ -18,7 +18,7 @@ main:
     image: ./assets/teaser/bot.png
 
   - title: "RealCompo: Balancing Realism and Compositionality Improves Text-to-Image Diffusion Models"
-    authors: Xinchen Zhang, Ling Yang, Yaqi Cai,<strong> Zhaochen Yu</strong>, Kai-Ni Wang, Jiake Xie, Ye Tian, Minkai Xu, Yong Tang, Yujiu Yang, Bin Cui
+    authors: Xinchen Zhang, Ling Yang, Yaqi Cai,<strong> Zhaochen Yu </strong>, Kai-Ni Wang, Jiake Xie, Ye Tian, Minkai Xu, Yong Tang, Yujiu Yang, Bin Cui
     conference_short: NeurIPS
     conference: Conference and Workshop on Neural Information Processing Systems, 2024.
     arxiv: https://arxiv.org/abs/2402.12908
@@ -27,7 +27,7 @@ main:
     image: ./assets/teaser/realcompo.png
 
   - title: "VideoTetris: Towards Compositional Text-To-Video Generation"
-    authors: Ye Tian, Ling Yang*, Haotian Yang, Yuan Gao, Yufan Deng, Jingmin Chen, Xintao Wang, <strong> Zhaochen Yu</strong>, Pengfei Wan, Di Zhang, Bin Cui
+    authors: Ye Tian*, Ling Yang*, Haotian Yang, Yuan Gao, Yufan Deng, Jingmin Chen, Xintao Wang, <strong> Zhaochen Yu </strong>, Pengfei Wan, Di Zhang, Bin Cui
     conference_short: NeurIPS
     conference: Conference and Workshop on Neural Information Processing Systems, 2024.
     arxiv: https://arxiv.org/abs/2406.04277
@@ -36,7 +36,7 @@ main:
     image: ./assets/teaser/video_tetris.png
 
   - title: "Mastering text-to-image diffusion: Recaptioning, planning, and generating with multimodal llms"
-    authors: Ling Yang*, <strong>Zhaochen Yu*</strong>, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui
+    authors: Ling Yang*, <strong> Zhaochen Yu*</strong>, Chenlin Meng, Minkai Xu, Stefano Ermon, Bin Cui
     conference_short: ICML
     conference:  International Conference on Machine Learning, 2024.
     arxiv: https://arxiv.org/abs/2401.11708
