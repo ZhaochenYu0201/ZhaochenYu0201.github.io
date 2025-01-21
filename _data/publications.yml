@@ -1,4 +1,11 @@
 main:
+  - title: "Spatio-Temporal Energy-Guided Diffusion Model for Zero-Shot Video Synthesis and Editing"
+    authors: Ling Yang, Yikai Zhao, <strong> Zhaochen Yu </strong>, Bohan Zeng, Minkai Xu, Shenda Hong, Bin Cui
+    conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology.
+    arxiv: https://ieeexplore.ieee.org/document/10845865
+    image: ./assets/teaser/energy_vid.png
+
   - title: "SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights"
     authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Tianjun Zhang, Minkai Xu, Joseph E. Gonzalez,Bin Cui, Shuicheng Yan
     conference_short: arxiv
