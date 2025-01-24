@@ -8,8 +8,8 @@ main:
 
   - title: "SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights"
     authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Tianjun Zhang, Minkai Xu, Joseph E. Gonzalez,Bin Cui, Shuicheng Yan
-    conference_short: arxiv
-    conference: arxiv 2024.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
     arxiv: https://arxiv.org/abs/2410.09008
     code: https://github.com/YangLing0818/SuperCorrect-llm
     github_stars: YangLing0818/SuperCorrect-llm
