@@ -1,4 +1,13 @@
 main:
+  - title: "ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates"
+    authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Bin Cui, Mengdi Wang
+    conference_short: arxiv
+    conference: arxiv preprint, 2025.
+    arxiv: https://arxiv.org/abs/2502.06772
+    code: https://github.com/Gen-Verse/ReasonFlux
+    github_stars: Gen-Verse/ReasonFlux
+    image: ./assets/teaser/reasonflux-f1.png
+
   - title: "Spatio-Temporal Energy-Guided Diffusion Model for Zero-Shot Video Synthesis and Editing"
     authors: Ling Yang, Yikai Zhao, <strong> Zhaochen Yu </strong>, Bohan Zeng, Minkai Xu, Shenda Hong, Bin Cui
     conference_short: TCSVT
