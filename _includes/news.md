@@ -1,5 +1,6 @@
 ## News 📢
 
+- **[Feburarary. 2025]** We propose [**ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates**](https://arxiv.org/abs/2502.06772) and release the training and inference code [![](https://img.shields.io/github/stars/Gen-Verse/ReasonFlux?style=social)](https://github.com/Gen-Verse/ReasonFlux)!
 - **[January. 2025]** Our paper [**SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights**](https://arxiv.org/abs/2410.09008) is accepted by **ICLR 2025 !** 🎉🎉🎉
 - **[January. 2025]** Our paper [**Spatio-Temporal Energy-Guided Diffusion Model for Zero-Shot Video Synthesis and Editing**](https://ieeexplore.ieee.org/document/10845865) is accepted by **TCSVT !** 🎉🎉🎉
 - **[October. 2024]** The evaluation code and weights of **[SuperCorrect](https://arxiv.org/abs/2410.09008)**  [![](https://img.shields.io/github/stars/YangLing0818/SuperCorrect-llm?style=social)](https://github.com/YangLing0818/SuperCorrect-llm)has been released !
