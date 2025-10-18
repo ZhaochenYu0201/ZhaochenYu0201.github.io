@@ -1,4 +1,13 @@
 main:
+  - title: "Demystifying Reinforcement Learning in Agentic Reasoning"
+    authors: <strong> Zhaochen Yu* </strong>, Ling Yang*, Jiaru Zou, Shuicheng Yan, Mengdi Wang
+    conference_short: arxiv
+    conference: arxiv preprint, 2025.
+    arxiv: https://arxiv.org/pdf/2510.11701
+    code: https://github.com/Gen-Verse/Open-AgentRL
+    github_stars: Gen-Verse/Open-AgentRL
+    image: ./assets/teaser/demystify.png
+
   - title: "ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates"
     authors: Ling Yang*, <strong> Zhaochen Yu* </strong>, Bin Cui, Mengdi Wang
     conference_short: arxiv
